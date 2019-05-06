@@ -1,0 +1,137 @@
++----------------------- 2017-06-29 08:08:05 Log Start ------------------------+
+
++----------------------- 2017-06-29 08:18:17 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 08:18:33 Log Stop ------------------------+
+
++----------------------- 2017-06-29 08:33:02 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 08:33:17 Log Stop ------------------------+
+
++----------------------- 2017-06-29 08:35:33 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 08:35:38 Log Stop ------------------------+
+
++----------------------- 2017-06-29 08:36:22 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 08:38:39 Log Stop ------------------------+
+
++----------------------- 2017-06-29 08:40:11 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 08:40:40 Log Stop ------------------------+
+
++----------------------- 2017-06-29 08:40:51 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 08:52:19 Log Stop ------------------------+
+
++----------------------- 2017-06-29 08:52:51 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 09:00:27 Log Stop ------------------------+
+
++----------------------- 2017-06-29 09:01:46 Log Start ------------------------+
+
++----------------------- 2017-06-29 09:28:48 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 09:28:59 Log Stop ------------------------+
+
++----------------------- 2017-06-29 09:29:36 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 09:34:42 Log Stop ------------------------+
+
++----------------------- 2017-06-29 09:51:33 Log Start ------------------------+
+
++----------------------- 2017-06-29 09:59:22 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 10:01:45 Log Stop ------------------------+
+
++----------------------- 2017-06-29 10:10:14 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 10:18:22 Log Stop ------------------------+
+
++----------------------- 2017-06-29 10:40:16 Log Start ------------------------+
+
++----------------------- 2017-06-29 11:01:56 Log Start ------------------------+
+
++----------------------- 2017-06-29 12:59:57 Log Start ------------------------+
+
++----------------------- 2017-06-29 13:03:42 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 13:14:25 Log Stop ------------------------+
+
++----------------------- 2017-06-29 14:03:14 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 14:04:16 Log Stop ------------------------+
+
++----------------------- 2017-06-29 14:42:46 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 14:43:28 Log Stop ------------------------+
+
++----------------------- 2017-06-29 15:55:34 Log Start ------------------------+
+
+[2017-06-29 15:55:38]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
+[2017-06-29 15:55:40]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
+[2017-06-29 15:55:41]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
+[2017-06-29 15:55:41]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
+[2017-06-29 15:55:42]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
+[2017-06-29 15:55:42]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
+[2017-06-29 15:55:43]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
+
++------------------------ 2017-06-29 15:55:53 Log Stop ------------------------+
+
++----------------------- 2017-06-29 15:56:51 Log Start ------------------------+
+
+[2017-06-29 15:57:20]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
++----------------------- 2017-06-29 16:05:01 Log Start ------------------------+
+
+[2017-06-29 16:05:31]	[ERROR]	未将对象引用设置到对象的实例。   在 SSQ.SSQ_Add..ctor(String qh) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\SSQ_Add.cs:行号 26
+   在 SSQ.Main.btn_bindCont_Click(Object sender, EventArgs e) 位置 E:\MyDocument\Programs\winform项目\SSQ\SSQ\Main.cs:行号 164
++----------------------- 2017-06-29 16:05:57 Log Start ------------------------+
+
+[2017-06-29 16:06:58]	[INFO]	UPDATE [SSQ_NUMBERS] SET [NUM_BLUE_7]=@P_NUM_BLUE_7_P, [NUM_RED_1]=@P_NUM_RED_1_P, [NUM_RED_2]=@P_NUM_RED_2_P, [NUM_RED_3]=@P_NUM_RED_3_P, [NUM_RED_4]=@P_NUM_RED_4_P, [NUM_RED_5]=@P_NUM_RED_5_P, [NUM_RED_6]=@P_NUM_RED_6_P, [QH]=@P_QH_P, [SSQ_DATE]=@P_SSQ_DATE_P WHERE ([ID] IS NULL)
++----------------------- 2017-06-29 16:11:18 Log Start ------------------------+
+
+[2017-06-29 16:11:27]	[INFO]	UPDATE [SSQ_NUMBERS] SET [NUM_BLUE_7]=@P_NUM_BLUE_7_P, [NUM_RED_1]=@P_NUM_RED_1_P, [NUM_RED_2]=@P_NUM_RED_2_P, [NUM_RED_3]=@P_NUM_RED_3_P, [NUM_RED_4]=@P_NUM_RED_4_P, [NUM_RED_5]=@P_NUM_RED_5_P, [NUM_RED_6]=@P_NUM_RED_6_P, [QH]=@P_QH_P, [SSQ_DATE]=@P_SSQ_DATE_P WHERE ([ID]=@P_ID_P)
+[2017-06-29 16:11:51]	[INFO]	UPDATE [SSQ_NUMBERS] SET [NUM_BLUE_7]=@P_NUM_BLUE_7_P, [NUM_RED_1]=@P_NUM_RED_1_P, [NUM_RED_2]=@P_NUM_RED_2_P, [NUM_RED_3]=@P_NUM_RED_3_P, [NUM_RED_4]=@P_NUM_RED_4_P, [NUM_RED_5]=@P_NUM_RED_5_P, [NUM_RED_6]=@P_NUM_RED_6_P, [QH]=@P_QH_P, [SSQ_DATE]=@P_SSQ_DATE_P WHERE ([ID]=@P_ID_P)
+[2017-06-29 16:12:22]	[INFO]	UPDATE [SSQ_NUMBERS] SET [NUM_BLUE_7]=@P_NUM_BLUE_7_P, [NUM_RED_1]=@P_NUM_RED_1_P, [NUM_RED_2]=@P_NUM_RED_2_P, [NUM_RED_3]=@P_NUM_RED_3_P, [NUM_RED_4]=@P_NUM_RED_4_P, [NUM_RED_5]=@P_NUM_RED_5_P, [NUM_RED_6]=@P_NUM_RED_6_P, [QH]=@P_QH_P, [SSQ_DATE]=@P_SSQ_DATE_P WHERE ([ID]=@P_ID_P)
++----------------------- 2017-06-29 16:19:24 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 16:19:45 Log Stop ------------------------+
+
++----------------------- 2017-06-29 16:20:38 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 16:21:25 Log Stop ------------------------+
+
++----------------------- 2017-06-29 16:26:49 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 16:33:16 Log Stop ------------------------+
+
++----------------------- 2017-06-29 17:22:20 Log Start ------------------------+
+
+
++------------------------ 2017-06-29 17:24:11 Log Stop ------------------------+
+

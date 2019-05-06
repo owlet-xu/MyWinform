@@ -1,0 +1,6 @@
+E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\bin\Debug\SSQDataBase.dll
+E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\bin\Debug\SSQDataBase.pdb
+E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\obj\Debug\SSQDataBase.csprojResolveAssemblyReference.cache
+E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\obj\Debug\SSQDataBase.dll
+E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\obj\Debug\SSQDataBase.pdb
+E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\bin\Debug\D2SPlatform.Core.dll

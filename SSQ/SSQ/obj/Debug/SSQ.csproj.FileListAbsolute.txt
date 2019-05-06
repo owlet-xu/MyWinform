@@ -1,0 +1,13 @@
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\SSQ.exe.config
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\SSQ.exe
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\SSQ.pdb
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\obj\Debug\SSQ.csprojResolveAssemblyReference.cache
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\obj\Debug\SSQ.Properties.Resources.resources
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\obj\Debug\SSQ.csproj.GenerateResource.Cache
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\obj\Debug\SSQ.exe
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\obj\Debug\SSQ.pdb
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\obj\Debug\SSQ.Main.resources
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\D2SPlatform.Core.dll
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\SSQDataBase.dll
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\SSQDataBase.pdb
+E:\MyDocument\Programs\winform项目\SSQ\SSQ\obj\Debug\SSQ.SSQ_Add.resources
