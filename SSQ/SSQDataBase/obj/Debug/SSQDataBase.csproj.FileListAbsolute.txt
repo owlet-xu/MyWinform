@@ -4,3 +4,9 @@ E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\obj\Debug\SSQDataBase.cspro
 E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\obj\Debug\SSQDataBase.dll
 E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\obj\Debug\SSQDataBase.pdb
 E:\MyDocument\Programs\winform项目\SSQ\SSQDataBase\bin\Debug\D2SPlatform.Core.dll
+D:\Code Local\github\MyWinform\SSQ\SSQDataBase\bin\Debug\SSQDataBase.dll
+D:\Code Local\github\MyWinform\SSQ\SSQDataBase\bin\Debug\SSQDataBase.pdb
+D:\Code Local\github\MyWinform\SSQ\SSQDataBase\bin\Debug\D2SPlatform.Core.dll
+D:\Code Local\github\MyWinform\SSQ\SSQDataBase\obj\Debug\SSQDataBase.csprojResolveAssemblyReference.cache
+D:\Code Local\github\MyWinform\SSQ\SSQDataBase\obj\Debug\SSQDataBase.dll
+D:\Code Local\github\MyWinform\SSQ\SSQDataBase\obj\Debug\SSQDataBase.pdb

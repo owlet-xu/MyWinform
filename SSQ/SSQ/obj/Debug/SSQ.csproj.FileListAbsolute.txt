@@ -11,3 +11,16 @@ E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\D2SPlatform.Core.dll
 E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\SSQDataBase.dll
 E:\MyDocument\Programs\winform项目\SSQ\SSQ\bin\Debug\SSQDataBase.pdb
 E:\MyDocument\Programs\winform项目\SSQ\SSQ\obj\Debug\SSQ.SSQ_Add.resources
+D:\Code Local\github\MyWinform\SSQ\SSQ\bin\Debug\SSQ.exe.config
+D:\Code Local\github\MyWinform\SSQ\SSQ\obj\Debug\SSQ.exe
+D:\Code Local\github\MyWinform\SSQ\SSQ\obj\Debug\SSQ.pdb
+D:\Code Local\github\MyWinform\SSQ\SSQ\bin\Debug\SSQ.exe
+D:\Code Local\github\MyWinform\SSQ\SSQ\bin\Debug\SSQ.pdb
+D:\Code Local\github\MyWinform\SSQ\SSQ\bin\Debug\D2SPlatform.Core.dll
+D:\Code Local\github\MyWinform\SSQ\SSQ\bin\Debug\SSQDataBase.dll
+D:\Code Local\github\MyWinform\SSQ\SSQ\bin\Debug\SSQDataBase.pdb
+D:\Code Local\github\MyWinform\SSQ\SSQ\obj\Debug\SSQ.csprojResolveAssemblyReference.cache
+D:\Code Local\github\MyWinform\SSQ\SSQ\obj\Debug\SSQ.Main.resources
+D:\Code Local\github\MyWinform\SSQ\SSQ\obj\Debug\SSQ.Properties.Resources.resources
+D:\Code Local\github\MyWinform\SSQ\SSQ\obj\Debug\SSQ.SSQ_Add.resources
+D:\Code Local\github\MyWinform\SSQ\SSQ\obj\Debug\SSQ.csproj.GenerateResource.Cache
