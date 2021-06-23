@@ -14,3 +14,6 @@
 
 ## 功能预览
 
+## 双色球数据下载地址
+
+双色球开奖记录导出excel <http://www.zhcw.com/kj/qg/ssq/wqcx/>
