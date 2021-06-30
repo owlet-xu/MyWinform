@@ -14,7 +14,7 @@
 
 ## 功能预览
 
-![ssq](./docs/ssq.gif)
+![ssq](./Docs/ssq.gif)
 
 ## 双色球数据下载地址
 
